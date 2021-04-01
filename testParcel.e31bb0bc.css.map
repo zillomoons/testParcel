@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAGA;EACI,YAHI","file":"testParcel.e31bb0bc.css","sourceRoot":"..","sourcesContent":["\r\n$newBg: rgb(206, 153, 206);\r\n\r\nbody {\r\n    background: $newBg;\r\n}\r\n\r\n"]}
